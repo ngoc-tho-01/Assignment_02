@@ -50,7 +50,7 @@ a {
 .nav {
   flex-basis: 120px;
   font-size: 14px;
-  padding: 30px 0px;
+  padding: 10px 0px;
   border-left: 1px solid rgba(42, 40, 40, 0.123);
   border-right: 1px solid rgba(42, 40, 40, 0.123);
 }
@@ -68,7 +68,7 @@ a {
 .info-tager {
   display: grid;
   grid-template-columns: 50% 50%;
-  padding: 100px 0px;
+  padding: 40px 0px;
 }
 #personal-info {
   margin-left: 40px;
